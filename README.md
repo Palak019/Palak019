@@ -1,4 +1,4 @@
-# Hey, I'm Palak 👋
+# Hey, I'm Palak 
 
 B.Sc. Electronics from Deen Dayal Upadhyaya College, Delhi University — 
 but somewhere along the way, data completely took over.
