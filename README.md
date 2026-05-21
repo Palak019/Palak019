@@ -24,4 +24,3 @@ curious about — elections, food, streaming, retail.
 
 **Skills:** SQL · Advance Excel · Python · Tableau · Power BI · PostgreSQL
 
-![Profile Views](https://komarev.com/ghpvc/?username=Palak019&label=Profile%20views&color=0e75b6&style=flat)
