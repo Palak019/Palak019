@@ -12,13 +12,13 @@ I mostly work with Python, SQL, Excel, and Tableau. Power BI is something
 I'm actively building on. The projects here reflect things I was genuinely 
 curious about — elections, food, streaming, retail.
 
-- 🌱 Currently building on **Power BI and Advanced SQL**
-- 👩‍💻 All of my projects are available at [GitHub](https://github.com/Palak019?tab=repositories)
-- 💬 Ask me about **Python, SQL, Excel, Tableau, Power BI**
-- 📍 Based in **Delhi NCR**
-- 💼 Open to **MIS Executive / Data Analyst** roles
-- 📫 palakkhanna019@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/palak-khanna-0ab8a9230/)
+-  Currently building on **Power BI and Advanced SQL**
+-  All of my projects are available at [GitHub](https://github.com/Palak019?tab=repositories)
+-  Ask me about **Python, SQL, Excel, Tableau, Power BI**
+-  Based in **Delhi NCR**
+-  Open to **MIS Executive / Data Analyst** roles
+-  palakkhanna019@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/palak-khanna-0ab8a9230/)
 
 ---
 
