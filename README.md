@@ -12,25 +12,13 @@ I mostly work with Python, SQL, Excel, and Tableau. Power BI is something
 I'm actively building on. The projects here reflect things I was genuinely 
 curious about — elections, food, streaming, retail.
 
----
-
-- 📍 Delhi NCR  
-- 💼 Open to MIS Executive / Data Analyst roles  
-- 📫 palakkhanna019@gmail.com  
+- 🌱 Currently building on **Power BI and Advanced SQL**
+- 👩‍💻 All of my projects are available at [GitHub](https://github.com/Palak019?tab=repositories)
+- 💬 Ask me about **Python, SQL, Excel, Tableau, Power BI**
+- 📍 Based in **Delhi NCR**
+- 💼 Open to **MIS Executive / Data Analyst** roles
+- 📫 palakkhanna019@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/palak-khanna-0ab8a9230/)
-
----
-
-## Projects
-
-| Project | Tools | What I explored |
-|--------|-------|-----------------|
-| [Zomato Data Analysis](https://github.com/Palak019/Zomato_Data_Analysis) | Python, Tableau, Excel | City-wise trends, cuisine patterns, ratings |
-| [Indian Election Analysis](https://github.com/Palak019/Indian_Election_Data_Analysis) | Python, Tableau, Excel | 30+ years of voting data across 20+ states |
-| [Netflix Data Analysis](https://github.com/Palak019/Netflix_Data_Analysis) | SQL, Tableau | Genre trends, global content patterns |
-| [Amazon Data Analysis](https://github.com/Palak019/Amazon_Data_Analysis) | Python | Product pricing and category insights |
-| [Coffee Shop Sales](https://github.com/Palak019/Coffee_Shop_Sales_Analysis) | Excel | Sales trends and peak hours |
-| [Retail Sales SQL](https://github.com/Palak019/Retail_Sales_SQL_Analysis_Project) | SQL | Revenue and customer pattern queries |
 
 ---
 
